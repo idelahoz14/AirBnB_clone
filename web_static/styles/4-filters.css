@@ -1,11 +1,9 @@
 .filter {
     color: white;
-    line-height: 70px;
     height: 70px;
     width: 100%;
     border: 1px solid #dddddd;
     border-radius: 4px;
-    text-align: right;
 }
 
 button {
@@ -16,7 +14,8 @@ button {
     width: 20%;
     border: 0;
     border-radius: 4px;
-    right: 30px;
+    float: right;
+    margin: 10px 10px 30px;
 }
 
 button:hover {
