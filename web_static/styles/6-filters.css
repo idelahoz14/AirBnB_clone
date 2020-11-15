@@ -28,7 +28,7 @@ button:hover {
     border-right: 1px solid #DDDDDD;
     float: left;
     text-align: left;
-    line-height: 12px;
+    line-height: 13px;
     margin-left: 45px;
 }
 
@@ -37,7 +37,7 @@ button:hover {
     width: 25%;
     float: left;
     text-align: left;
-    line-height: 12px;
+    line-height: 13px;
     margin-left: 45px;
 }
 
@@ -71,7 +71,7 @@ button:hover {
     list-style: none;
 }
 
-.popover li h2 {
+.popover h2 {
     font-size: 16px;
     margin-top: 25px;
 }
