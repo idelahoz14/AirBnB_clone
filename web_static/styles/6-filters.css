@@ -76,6 +76,6 @@ button:hover {
     margin-top: 25px;
 }
 
-.amenities li {
-    margin: 25px;
+.popover li {
+    margin-top: 10px;
 }
