@@ -15,6 +15,10 @@ article {
     margin: 45px auto;
 }
 
+section.places h1 {
+    right: 45%;
+}
+
 h1 {
     margin-left: 25px;
     height: 100%;
