@@ -76,6 +76,10 @@ button:hover {
     margin-top: 25px;
 }
 
-.popover li {
-    margin-top: 10px;
+.popover ul li {
+    margin: 15px 0px 10px;
+}
+
+.amenities li {
+    margin: 15px 30px 30px;
 }
